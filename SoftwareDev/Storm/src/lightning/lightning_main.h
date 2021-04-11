@@ -1,0 +1,2 @@
+
+void lightning_init();
